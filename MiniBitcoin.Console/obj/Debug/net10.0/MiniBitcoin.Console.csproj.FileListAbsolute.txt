@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.exe
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.deps.json
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.runtimeconfig.json
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.dll
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.pdb
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.sourcelink.json
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.dll
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\refint\MiniBitcoin.Console.dll
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.pdb
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Documentos\UNA\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\ref\MiniBitcoin.Console.dll

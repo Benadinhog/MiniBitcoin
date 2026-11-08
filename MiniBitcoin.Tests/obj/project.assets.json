@@ -393,6 +393,16 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MiniBitcoin.Console/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/MiniBitcoin.Console.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiniBitcoin.Console.dll": {}
+        }
       }
     }
   },
@@ -903,11 +913,17 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MiniBitcoin.Console/1.0.0": {
+      "type": "project",
+      "path": "../MiniBitcoin.Console/MiniBitcoin.Console.csproj",
+      "msbuildProject": "../MiniBitcoin.Console/MiniBitcoin.Console.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.NET.Test.Sdk >= 17.14.1",
+      "MiniBitcoin.Console >= 1.0.0",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
       "xunit.runner.visualstudio >= 3.1.4"
@@ -919,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Tests\\MiniBitcoin.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Tests\\MiniBitcoin.Tests.csproj",
       "projectName": "MiniBitcoin.Tests",
-      "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Tests\\MiniBitcoin.Tests.csproj",
+      "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Tests\\MiniBitcoin.Tests.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Tests\\obj\\",
+      "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -938,7 +954,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Console\\MiniBitcoin.Console.csproj": {
+              "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Console\\MiniBitcoin.Console.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

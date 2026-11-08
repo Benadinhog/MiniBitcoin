@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Console\\MiniBitcoin.Console.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Console\\MiniBitcoin.Console.csproj",
       "projectName": "MiniBitcoin.Console",
-      "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Console\\MiniBitcoin.Console.csproj",
+      "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Console\\MiniBitcoin.Console.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Console\\obj\\",
+      "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"

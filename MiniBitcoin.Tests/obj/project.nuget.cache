@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfhy2XdfUCo=",
+  "dgSpecHash": "9KKyMNvN1jE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin.Tests\\MiniBitcoin.Tests.csproj",
+  "projectFilePath": "C:\\Users\\berna\\OneDrive\\Documentos\\UNA\\MiniBitcoin\\MiniBitcoin.Tests\\MiniBitcoin.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
